@@ -38,8 +38,8 @@ export default () => ({
                       "Matplotlib", "Seaborn", "Scikit-learn", "BeautifulSoup", "Plotly" ],
     "Databases": [ "Oracle", "SQLite", "PostgreSQL", "SQLAlchemy", "MongoDB" ],
     "Web Services": [ "REST", "Flask", "Gunicorn", "Celery", "Jinja2" ],
-    "DevOps, Security": [ "Git", "Jenkins", "Bamboo", "Docker", "Click", 
-                          "Maven", "Unix", "Shibboleth SP", "PingFederate" ],
+    "DevOps, Security": [ "Docker", "Kubernetes", "Git", "Jenkins", "Bamboo",
+                          "Click", "Maven", "Unix", "Shibboleth SP", "PingFederate" ],
     "Testing": [ "pytest", "Junit", "Cucumber", "Selenium", "SoapUI", 
                  "Fiddler", "JMeter", "BlazeMeter", "Robot FW", "HP ALM" ],
     "Others": [ "Jira", "Agile", "Red Hat Enterprise Linux", "VS Code", "PyCharm" ]
