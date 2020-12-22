@@ -32,14 +32,14 @@ export default () => ({
   ],
   technologies: {
     "Programming Languages": [ "Python", "Java" ],
+    "CloudOps": [ "GCP", "AWS" ],
     "Data Science": [ "Redis", "Oozie", "Hadoop", "Hive", "Spark",
                       "TensorFlow", "Keras", "Pandas", "NumPy", "SciPy", 
                       "Matplotlib", "Seaborn", "Scikit-learn", "BeautifulSoup", "Plotly" ],
     "Databases": [ "Oracle", "SQLite", "PostgreSQL", "SQLAlchemy", "MongoDB" ],
     "Web Services": [ "REST", "Flask", "Gunicorn", "Celery", "Jinja2" ],
     "DevOps, Security": [ "Git", "Jenkins", "Bamboo", "Docker", "Click", 
-                          "Nexus", "Maven", "Ant", "Unix", "Shibboleth SP", "PingFederate" ],
-    "CloudOps": [ "GCP", "AWS" ],
+                          "Maven", "Unix", "Shibboleth SP", "PingFederate" ],
     "Testing": [ "pytest", "Junit", "Cucumber", "Selenium", "SoapUI", 
                  "Fiddler", "JMeter", "BlazeMeter", "Robot FW", "HP ALM" ],
     "Others": [ "Jira", "Agile", "Red Hat Enterprise Linux", "VS Code", "PyCharm" ]
